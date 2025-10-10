@@ -57,9 +57,8 @@ An enterprise-grade AI-powered onboarding assistant that dramatically reduces ti
 - **Smart Scheduling** - Automated meeting coordination
 - **Document Processing** - AI-powered knowledge extraction
 - **Progress Tracking** - Continuous monitoring and insights
-# Onboarding-AI-Assistant
 
-## ⚙️ Key Components:
+### ⚙️ Key Components:
 
 1. Conversational Interface: For voice/text-based interaction
 2. Document Insights Engine: Extracts knowledge from KT docs, PDFs, reports
@@ -67,7 +66,7 @@ An enterprise-grade AI-powered onboarding assistant that dramatically reduces ti
 4. Personalized Assistant Logic: Adapts to user role, team, and tech stack
 5. Analytics Dashboard: Tracks usage, gaps, and improvement areas
 
-## AWS Services Utilized:
+### AWS Services Utilized:
 
 1. Amazon Bedrock Agent: Model access for LLM-driven responses
 
@@ -82,7 +81,7 @@ An enterprise-grade AI-powered onboarding assistant that dramatically reduces ti
 6. Amazon Transcribe: Transcribes user voice input to text
 
 
-## Setup
+### Setup
 
 This Application will run in Amazon sage maker AI and Amazon EC2 as well
 1. Configure your AWS credentials:
