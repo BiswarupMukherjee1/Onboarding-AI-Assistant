@@ -131,8 +131,5 @@ This Application will run in Amazon sage maker AI and Amazon EC2 as well
 
 
 
----
-
-## 🏗️ Architecture
 
 
