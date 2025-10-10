@@ -1,0 +1,35 @@
+# Core Framework
+streamlit==1.28.1
+pandas==2.1.3
+numpy==1.24.3
+
+# AWS SDK
+boto3==1.34.0
+botocore==1.34.0
+
+# AI/ML
+scikit-learn==1.3.2
+sentence-transformers==2.2.2
+
+# Text Processing
+nltk==3.8.1
+python-docx==1.1.0
+PyPDF2==3.0.1
+
+# Voice Processing
+speechrecognition==3.10.0
+pydub==0.25.1
+audio-recorder-streamlit==0.0.8
+streamlit-float==0.3.2
+
+# Data Visualization
+plotly==5.17.0
+matplotlib==3.8.2
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+python-dateutil==2.8.2
+
+# Testing
+pytest==7.4.3
