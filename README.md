@@ -11,14 +11,7 @@
 
 ## 🌟 Overview
 
-An enterprise-grade AI-powered onboarding assistant that dramatically reduces time-to-productivity, increases retention, and minimizes HR workload through intelligent automation and personalized learning experiences.
-
-### 🎯 Business Impact
-
-- **70% reduction** in time-to-productivity
-- **85% increase** in first-year retention  
-- **60% decrease** in HR support workload
-- **Real-time insights** into onboarding effectiveness
+An enterprise-grade AI-powered onboarding assistant that reduces time-to-productivity for new joiners, minimizes HR workload through intelligent automation and personalized learning experiences.
 
 ### ⚙️ Core Components
 
@@ -46,19 +39,27 @@ An enterprise-grade AI-powered onboarding assistant that dramatically reduces ti
 - Context-aware responses with conversation memory
 - Multi-language support
 
-### 🥽 Immersive VR/AR Training
-- Virtual reality office tours and equipment training
-- Augmented reality workspace guidance
-- Social VR for team building
-- WebXR-based (no special hardware required)
-
 ### ⚡ Automated Workflows
 - **Email Automation** - Personalized campaigns and notifications
 - **Smart Scheduling** - Automated meeting coordination
 - **Document Processing** - AI-powered knowledge extraction
 - **Progress Tracking** - Continuous monitoring and insights
 
-### ⚙️ Key Components:
+### 🎯 Business Impact
+
+- **71% reduction** in time-to-productivity
+- **85% increase** in first-year retention  
+- **60% decrease** in HR support workload
+- **Real-time insights** into onboarding effectiveness
+
+
+### 🥽 Immersive VR/AR Training
+- Virtual reality office tours and equipment training
+- Augmented reality workspace guidance
+- Social VR for team building
+- WebXR-based (no special hardware required)
+ 
+### Descriptions:
 
 1. Conversational Interface: For voice/text-based interaction
 2. Document Insights Engine: Extracts knowledge from KT docs, PDFs, reports
