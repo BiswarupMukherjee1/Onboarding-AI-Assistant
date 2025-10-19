@@ -1,6 +1,6 @@
-# Onboarding AI Assistant
+# Onboarding Multi - Agent AI Assistant
 
-> **AI-Powered employee onboarding platform** leveraging Amazon Bedrock Multi-Agent AI, built to boost new hire productivity, minimize manual support workload, and deliver instant and conversational assistance through voice and text.
+> **Employee onboarding platform** leveraging Amazon Bedrock Multi-Agent AI, built to boost new hire productivity, minimize manual support workload, and deliver instant and conversational assistance through voice and text.
 
 [![AWS](https://img.shields.io/badge/AWS-Bedrock%20%7C%20Lambda%20%7C%20DynamoDB-orange)](https://aws.amazon.com/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
